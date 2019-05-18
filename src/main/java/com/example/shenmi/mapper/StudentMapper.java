@@ -16,4 +16,6 @@ public interface StudentMapper {
     @Select("SELECT * FROM student")
 
     List<Student> findAll();
+
+    //dsaasdadda//
 }
